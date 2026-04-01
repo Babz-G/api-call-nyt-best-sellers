@@ -24,6 +24,7 @@ A vanilla JavaScript app that fetches and displays data from the New York Times 
 ## 🖼️ Screenshots
 
 **Bestsellers List**
+<img width="1410" height="702" alt="Screenshot 2026-04-01 at 4 50 16 PM" src="https://github.com/user-attachments/assets/705b58d7-13ef-42e3-a636-263d3410d292" />
 
 ---
 
